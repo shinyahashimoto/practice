@@ -1,7 +1,7 @@
 package com.example;
 
 public class practice {
-	protected int speed;
+	private int speed;
 
 	private Integer id;
 	private String name;
